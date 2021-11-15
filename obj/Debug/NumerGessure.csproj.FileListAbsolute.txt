@@ -1,0 +1,6 @@
+C:\Users\GIGABYTE\Desktop\Zahid\NumerGessure\bin\Debug\NumerGessure.exe.config
+C:\Users\GIGABYTE\Desktop\Zahid\NumerGessure\bin\Debug\NumerGessure.exe
+C:\Users\GIGABYTE\Desktop\Zahid\NumerGessure\bin\Debug\NumerGessure.pdb
+C:\Users\GIGABYTE\Desktop\Zahid\NumerGessure\obj\Debug\NumerGessure.csprojResolveAssemblyReference.cache
+C:\Users\GIGABYTE\Desktop\Zahid\NumerGessure\obj\Debug\NumerGessure.exe
+C:\Users\GIGABYTE\Desktop\Zahid\NumerGessure\obj\Debug\NumerGessure.pdb
